@@ -1,2 +1,2 @@
-# Full-stack-Dev
- My First website!!
+# Pricing App
+ This is a pricing App for !!
